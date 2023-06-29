@@ -10,6 +10,7 @@ namespace CursoCSharp
     {
         static void Main(string[] args)
         {
+            //VEMOS LOS ASPECTOS BÁSICOS DE EL USO DE CSHARP .NET
             //Console.WriteLine("Hola mundo");
             //Console.ReadKey();
 
